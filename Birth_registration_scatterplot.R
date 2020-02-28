@@ -11,7 +11,7 @@ library(extrafont)
 library(WDI)
 library(ggrepel)
 
-setwd()
+setwd("~/Dropbox/R/Scatterplot")
 
 #search 
 WDIsearch('birth registration')
